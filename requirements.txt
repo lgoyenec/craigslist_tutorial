@@ -1,0 +1,4 @@
+python-craigslist
+plotly
+wordcloud
+nltk
